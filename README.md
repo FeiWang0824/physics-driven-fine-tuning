@@ -11,11 +11,8 @@ Single-pixel imaging (SPI) is a typical computational imaging modality that allo
 
 
 
-
-
-
 ## Citation
-Fei Wang, Chenglong Wang, Mingliang Chen, Wenlin Gong, Yu Zhang, Shensheng Han and Guohai Situ. Far-field super-resolution ghost imaging with a deep neural network constraint. *Light Sci Appl* **11**, 1 (2022).
+Fei Wang, Chenglong Wang, Chenjin Deng, Shensheng Han and Guohai Situ. Single-pixel imaging using physics enhanced deep learning. *Photon. Res.* **10**, 1 (2022).
 
 @article{Wang:22,
 author = {Fei Wang and Chenglong Wang and Chenjin Deng and Shensheng Han and Guohai Situ},
