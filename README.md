@@ -17,7 +17,7 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 *conda env create -f environment.yml*
 
 ### pretrained models
-Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable at this [link](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing). The total number of sampling patterns are both 1024. One can obtained a new pretrained model by using *pretrain.y*.
+Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable.\[[Download pretrain model](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing)]. The total number of sampling patterns are both 1024. One can obtained a new pretrained model by using *pretrain.y*.
 
 
 ## Citation
