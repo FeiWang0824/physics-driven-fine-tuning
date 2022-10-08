@@ -7,7 +7,7 @@ demo code for [Single-pixel imaging using physics enhanced deep learning](https:
 Here we propose a physics-enhanced deep learning approach for SPI. By blending a physics-informed layer and a model-driven fine-tuning process, we show that the proposed approach is generalizable for image reconstruction. We implement the proposed method in an in-house SPI system and an outdoor single-pixel LiDAR system. The proposed method establishes a bridge between data-driven and model-driven algorithms, allowing one to impose both data and physics priors for inverse problem solvers in computational imaging, ranging from remote sensing to microscopy.
 
 ## Overview
-![avatar](https://opg.optica.org/getImage.cfm?img=M3cubGFyZ2UscHJqLTEwLTEtMTA0LWcwMDE[Schematic diagram of the physics enhanced deep learning approach for SPI. (a) The physics-informed DNN. (b) The SPI system. (c) The model-driven fine-tuning process. ])
+![avatar](https://opg.optica.org/getImage.cfm?img=M3cubGFyZ2UscHJqLTEwLTEtMTA0LWcwMDE"Schematic diagram of the physics enhanced deep learning approach for SPI. (a) The physics-informed DNN. (b) The SPI system. (c) The model-driven fine-tuning process.")
 
 
 
