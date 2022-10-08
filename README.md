@@ -13,22 +13,22 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 ![avatar](https://opg.optica.org/getImage.cfm?img=QC5mdWxsLHByai0xMC0xLTEwNC1nMDA3&article=prj-10-1-104-g007 "Experimental results for single-pixel LiDAR. (a) Schematic diagram of the single-pixel LiDAR system. (b) Satellite image of our experiment scenario. The inset in the top left is the target imaged by a telescope, whereas the one in the bottom right is one of the echoed light signals. (c) Six typical 2D depth slices of the 3D object reconstructed by DGI with the learned patterns illumination, GISC [5], and the proposed fine-tuning method. (d) 3D images of the object reconstructed by the three aforementioned methods.")
 
 ## How to use
-### required packages
+### Required packages
 *conda env create -f environment.yml*
 
-### pretrained models
+### Pretrained models
 Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable \[[Download pretrain models](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing)]. 
 
 The total number of sampling patterns are both 1024. 
 
 One can obtained a new pretrained model by using *pretrain.y*.
 
-### simulations
+### Simulations
 Run **gen_simulation_data.py** to generate data required for simulation.
 
 Run **finetune.py** for reconstruction.
 
-### experiment
+### Experiment
 Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
 
 Run **finetune.py** for reconstruction.
