@@ -20,12 +20,14 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable \[[Download pretrain models](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing)]. The total number of sampling patterns are both 1024. One can obtained a new pretrained model by using *pretrain.y*.
 
 ### simulations
-$\bullet$ Run **gen_simulation_data.py** to generate data required for simulation.
-$\bullet$ Run **finetune.py** for reconstruction.
+$\bullet$  Run **gen_simulation_data.py** to generate data required for simulation.
+
+$\bullet$  Run **finetune.py** for reconstruction.
 
 ### experiment
-$\bullet$ Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
-$\bullet$ Run **finetune.py** for reconstruction.
+$\bullet$  Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
+
+$\bullet$  Run **finetune.py** for reconstruction.
 
 
 ## Citation
