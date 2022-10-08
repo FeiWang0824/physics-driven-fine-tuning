@@ -40,23 +40,14 @@ Here we provide one of experiment data (**SIOM_exp.mat**) for a quick demo.
 Fei Wang, Chenglong Wang, Chenjin Deng, Shensheng Han and Guohai Situ. Single-pixel imaging using physics enhanced deep learning. *Photon. Res.* **10**, 1 (2022).
 
 @article{Wang:PR22,
-
 author = {Fei Wang and Chenglong Wang and Chenjin Deng and Shensheng Han and Guohai Situ},
-
 title = {Single-pixel imaging using physics enhanced deep learning},
-
 journal = {Photon. Res.},
-
 number = {1},
-
 pages = {104--110},
-
 volume = {10},
-
 month = {Jan},
-
 year = {2022},
-
 doi = {10.1364/PRJ.440123}}
 
 
