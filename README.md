@@ -50,4 +50,6 @@ month = {Jan},
 year = {2022},
 doi = {10.1364/PRJ.440123}}
 
+## License
+For academic and non-commercial use only.
 
