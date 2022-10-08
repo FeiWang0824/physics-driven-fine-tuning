@@ -8,7 +8,7 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 
 ## Overview
 
-![avatar](https://note.youdao.com/yws/api/personal/sync?method=download&fileId=WEB0e8ff0cb3ab2622e50b5276bcbeab11d&version=3&cstk=96zDxuYm "Schematic diagram of the physics enhanced deep learning approach for SPI. (a) The physics-informed DNN. (b) The SPI system. (c) The model-driven fine-tuning process.")
+![avatar](https://pcsdata.baidu.com/thumbnail/9c71ab99em26e606ee363c2de2f1ca1b?fid=2326259770-16051585-437861194953908&rt=pr&sign=FDTAER-yUdy3dSFZ0SVxtzShv1zcMqd-n3mixc0UMQQ59hYlfpOqXmaFO9w%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=8810054304714794540&dp-callid=0&time=1665194400&bus_no=26&size=c1600_u1600&quality=100&vuk=-&ft=video "Schematic diagram of the physics enhanced deep learning approach for SPI. (a) The physics-informed DNN. (b) The SPI system. (c) The model-driven fine-tuning process.")
 
 ## Results
 ### in-house
