@@ -10,10 +10,10 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 ![avatar](https://opg.optica.org/getImage.cfm?img=M3cubGFyZ2UscHJqLTEwLTEtMTA0LWcwMDE "Schematic diagram of the physics enhanced deep learning approach for SPI. (a) The physics-informed DNN. (b) The SPI system. (c) The model-driven fine-tuning process.")
 
 ## Results
-# in-house
+### in-house
 ![avatar](https://opg.optica.org/getImage.cfm?img=LmxhcmdlLHByai0xMC0xLTEwNC1nMDA2 "Experimental results: images of the badge of our institute reconstructed by (a) HSI with $\beta$ = 100% (it serves as the ground truth), (b) HSI with $\beta$ = 6.25%, (c) DCAN, (d) TVAL3, (e) fine-tuning with random initialization, (f) DGI with learned patterns, (g) physics-informed DNN, and (h) the fine-tuning process.")
 
-# outdoor
+### outdoor
 ![avatar](https://opg.optica.org/getImage.cfm?img=QC5mdWxsLHByai0xMC0xLTEwNC1nMDA3&article=prj-10-1-104-g007 "Experimental results for single-pixel LiDAR. (a) Schematic diagram of the single-pixel LiDAR system. (b) Satellite image of our experiment scenario. The inset in the top left is the target imaged by a telescope, whereas the one in the bottom right is one of the echoed light signals. (c) Six typical 2D depth slices of the 3D object reconstructed by DGI with the learned patterns illumination, GISC [5], and the proposed fine-tuning method. (d) 3D images of the object reconstructed by the three aforementioned methods.")
 
 ## Citation
