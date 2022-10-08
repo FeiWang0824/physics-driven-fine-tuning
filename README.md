@@ -21,7 +21,7 @@ Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are a
 
 The total number of sampling patterns are both **1024**. 
 
-One can obtain a new pretrained model by using **pretrain.y**.
+One can obtain a new pretrained model by using **pretrain.py**.
 
 ### Simulations
 Run **gen_simulation_data.py** to generate data required for simulation.
