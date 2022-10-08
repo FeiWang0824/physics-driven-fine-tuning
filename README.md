@@ -24,7 +24,8 @@ Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are a
 2. Run **finetune.py** for reconstruction.
 
 ### experiment
-1. Experimental data obtained by encoding the target using an optimized mask
+1. Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
+2. Run **finetune.py** for reconstruction.
 
 
 ## Citation
