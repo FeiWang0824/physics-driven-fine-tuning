@@ -17,18 +17,23 @@ Here we propose a physics-enhanced deep learning approach for SPI. By blending a
 *conda env create -f environment.yml*
 
 ### pretrained models
-Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable \[[Download pretrain models](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing)]. The total number of sampling patterns are both 1024. One can obtained a new pretrained model by using *pretrain.y*.
+Two models trained on CelebA (128 $\times$ 128) and stl10 (64 $\times$ 64) are avaliable \[[Download pretrain models](https://drive.google.com/file/d/1AKmTzAoQA1MHlzpgzy955XJD3UfruBH4/view?usp=sharing)]. 
+
+The total number of sampling patterns are both 1024. 
+
+One can obtained a new pretrained model by using *pretrain.y*.
 
 ### simulations
-$\bullet$  Run **gen_simulation_data.py** to generate data required for simulation.
+Run **gen_simulation_data.py** to generate data required for simulation.
 
-$\bullet$  Run **finetune.py** for reconstruction.
+Run **finetune.py** for reconstruction.
 
 ### experiment
-$\bullet$  Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
+Using optimized patterns (part of the pretrained model) to encode objects to obtain experimental data.
 
-$\bullet$  Run **finetune.py** for reconstruction.
+Run **finetune.py** for reconstruction.
 
+Here we provide one of experiment data (**SIOM_exp.mat**) for a quick demo. 
 
 ## Citation
 Fei Wang, Chenglong Wang, Chenjin Deng, Shensheng Han and Guohai Situ. Single-pixel imaging using physics enhanced deep learning. *Photon. Res.* **10**, 1 (2022).
